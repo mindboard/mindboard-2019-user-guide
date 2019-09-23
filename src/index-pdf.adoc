@@ -1,0 +1,13 @@
+= MindBoard 2019 User Guide
+MindBoard Apps <https://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: ../images
+
+This document explains MindBoard 2019 Version 1.0.0.
+
+include::user-guide.adoc[]
