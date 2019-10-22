@@ -13,9 +13,12 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 
 === Key Features
 
-* PDF Export
-* Intuitive Interaction Design
-* No Frills UI
+* Directly channel your thoughts using Stylus and Finger
+* Collapsing and Expanding Branches
+* Multiple pen colors.
+* Backup and sync with DropBox
+* PDF Export ( _Premium Subscription_ )
+* Pen and Branch Color Settings ( _Premium Subscription_ )
 
 
 === Requirements
@@ -23,6 +26,8 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 * Android 5.0 Lollipop or newer
 * *S Pen* or Digitizer Stylus.
 
+[NOTE]
+This app is designed for the Digitizer Stylus such as S-Pen.
 
 
 === Installation
@@ -37,4 +42,42 @@ And also your feedback will be much appreciated.
 
 To get update information, see 
 https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard/[Twitter].
+
+
+
+
+
+== Using MindBoard 2019
+
+=== Overview
+
+There are three main features.
+
+* (1) Editor
+* (2) File Manager
+* (3) Settings
+
+
+=== (1) Editor
+=== (2) File Manager
+=== (3) Settings
+
+
+== Premium Subscription 
+
+This app is free. +
+But additional useful features are provided with Premium Subscription. +
+If you like this app, please consider to get Premium Subscription and support this app better.
+
+
+=== Additinal useful features for Premium
+
+For now, there are 3 features with Premium Subscription.
+
+* PDF export
+* Pen and Branch Color Settings
+
+
+=== How to get Premium Subscription 
+
 
