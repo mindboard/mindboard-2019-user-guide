@@ -3,7 +3,7 @@
 
 == Introduction
 
-image::screenshots/mindboard-2019-example.png[alt=MindBoard 2019,width=600]
+image::screenshots/mindboard-2019-example.png[alt=MindBoard 2019, width=600]
 
 
 === Overview
@@ -70,9 +70,9 @@ But additional useful features are provided with Premium Subscription. +
 If you like this app, please consider to get Premium Subscription and support this app better.
 
 
-=== Additinal useful features for Premium
+=== Premium features
 
-For now, there are 3 features with Premium Subscription.
+For now, there are 2 features with Premium Subscription.
 
 * PDF export
 * Pen and Branch Color Settings
@@ -87,15 +87,18 @@ To use this feature, tap image:icons/menu.svg[Menu] Menu and image:icons/color-s
 
 
 
-=== How to get the Premium Subscription
+=== Get the Premium Subscription
 
 (1) Go to the Editor Screen.
 
 (2) Tap image:icons/menu.svg[Menu] Menu and image:icons/about-subscription.svg[About Subscription] About Subscription Menu Item.
 
+image::screenshots/get-premium-subscription.png[alt=Get Premium Subscription, width=600]
+
+Tap the item *Get Premium Subscription*.
 
 
-=== How to cancel the Premium Subscription
+=== Cancel the Premium Subscription
 
 (1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S Pen] on your Android phone or tablet.
 
