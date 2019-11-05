@@ -27,12 +27,12 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 * *S Pen* or Digitizer Stylus.
 
 [NOTE]
-This app is designed for the Digitizer Stylus such as S-Pen.
+This app is designed for the Digitizer Stylus such as S Pen.
 
 
 === Installation
 
-Get https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S-Pen] app on Google Play.
+Get https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S Pen] app on Google Play.
 
 
 === Getting help
@@ -78,6 +78,26 @@ For now, there are 3 features with Premium Subscription.
 * Pen and Branch Color Settings
 
 
-=== How to get Premium Subscription 
+==== Pen and Branch Color Settings
+
+image::screenshots/pen-and-branch-color-settings-landscape.png[alt=Pen and Branch Color Settings, width=600]
+
+To use this feature, tap image:icons/menu.svg[Menu] Menu and image:icons/color-settings.svg[Color Settings] Color Settings Menu Item.
+
+
+
+=== How to get the Premium Subscription
+
+(1) Go to the Editor Screen.
+
+(2) Tap image:icons/menu.svg[Menu] Menu and image:icons/about-subscription.svg[About Subscription] About Subscription Menu Item.
+
+
+
+=== How to cancel the Premium Subscription
+
+(1) Go to the https://play.google.com/store/apps/details?id=com.mindboardapps.app.mb2019[MindBoard 2019 for S Pen] on your Android phone or tablet.
+
+(2) Tap the Subscription *Cancel* Button.
 
 
