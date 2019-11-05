@@ -17,7 +17,7 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 * Collapsing and Expanding Branches
 * Multiple pen / branch colors.
 * Backup and sync with DropBox
-* PDF Export ( _Premium Subscription_ )
+* link:#PDFExport[PDF Export] ( _Premium Subscription_ )
 * link:#PenAndBranchColorSettings[Pen and Branch Color Settings] ( _Premium Subscription_ )
 
 
@@ -78,20 +78,25 @@ For now, there are 2 features with Premium Subscription.
 * Pen and Branch Color Settings
 
 
+[[PDFExport]]
+==== PDF export
+
+In order to export PDF, tap the image:icons/share.svg[Share] *Share Icon* in the Editor Screen.
+
+
 [[PenAndBranchColorSettings]]
 ==== Pen and Branch Color Settings
 
 image::screenshots/pen-and-branch-color-settings-landscape.png[alt=Pen and Branch Color Settings, width=600]
 
-To use this feature, tap image:icons/menu.svg[Menu] Menu and image:icons/color-settings.svg[Color Settings] Color Settings Menu Item.
-
+To use this feature, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/color-settings.svg[Color Settings] *Color Settings* Menu Item.
 
 
 === Get the Premium Subscription
 
 (1) Go to the Editor Screen.
 
-(2) Tap image:icons/menu.svg[Menu] Menu and image:icons/about-subscription.svg[About Subscription] About Subscription Menu Item.
+(2) Tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/about-subscription.svg[About Subscription] *About Subscription* Menu Item.
 
 image::screenshots/get-premium-subscription.png[alt=Get Premium Subscription, width=600]
 
