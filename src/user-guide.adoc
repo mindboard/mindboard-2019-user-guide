@@ -15,10 +15,10 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 
 * Directly channel your thoughts using Stylus and Finger
 * Collapsing and Expanding Branches
-* Multiple pen colors.
+* Multiple pen / branch colors.
 * Backup and sync with DropBox
 * PDF Export ( _Premium Subscription_ )
-* Pen and Branch Color Settings ( _Premium Subscription_ )
+* link:#PenAndBranchColorSettings[Pen and Branch Color Settings] ( _Premium Subscription_ )
 
 
 === Requirements
@@ -78,6 +78,7 @@ For now, there are 3 features with Premium Subscription.
 * Pen and Branch Color Settings
 
 
+[[PenAndBranchColorSettings]]
 ==== Pen and Branch Color Settings
 
 image::screenshots/pen-and-branch-color-settings-landscape.png[alt=Pen and Branch Color Settings, width=600]
