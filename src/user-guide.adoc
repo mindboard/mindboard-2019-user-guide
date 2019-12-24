@@ -75,6 +75,18 @@ You can backup and sync your files with DropBox.
 (2) Tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Settings] *Backup and Sync* Menu Item.
 
 
+== Additional Information
+
+=== Data Migration from __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon]
+
+This app __MindBoard 2019__ and __MindBoard (Pro)__ share the common file format.
+So you can import data from __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) Icon]
+
+In order to import data:
+
+1. Export a document to Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
+2. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
+
 
 == Premium Subscription 
 
