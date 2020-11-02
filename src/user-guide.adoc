@@ -84,7 +84,7 @@ In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the ima
 
 * *Pen Thickness* : You can change each pen thickness.
 * *Save as Default* : 
-** If check this item *on*, this settings *also apply new document*. 
+** If check this item *on*, this settings apply current document and *also apply new document*. 
 ** If check this item *off*, this settings *only apply current document*.
 
 image::screenshots/pen-thickness-settings-portrait.png[alt=Pen Thickness Settings, width=600]
@@ -154,7 +154,7 @@ In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the ima
 * *Branch Color* : You can change each branch color to choice a color in right palette.
 * *Background Color* : You can change editor background color to choice a color in right palette.
 * *Save as Default* : 
-** If check this item *on*, this settings *also apply new document*. 
+** If check this item *on*, this settings apply current document and *also apply new document*. 
 ** If check this item *off*, this settings *only apply current document*.
 
 image::screenshots/pen-and-branch-color-settings-portrait.png[alt=Pen Thickness, Pen Color and Branch Color Settings, width=600]
