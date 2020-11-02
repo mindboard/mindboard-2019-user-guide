@@ -8,6 +8,6 @@ MindBoard Apps <https://www.mindboardapps.com/>
 :icons: font
 :imagesdir: ../images
 
-This document explains MindBoard 2019 Version 1.0.0.
+This document explains MindBoard 2019 Version 1.1.5.
 
 include::user-guide.adoc[]
