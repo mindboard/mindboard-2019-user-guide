@@ -7,6 +7,7 @@ index.html : src/index.adoc src/user-guide.adoc
 	asciidoctor -b html src/index.adoc -o index.html
 
 pdf : mindboard-2019-user-guide.pdf
+
 mindboard-2019-user-guide.pdf: src/index.adoc src/user-guide.adoc
 	asciidoctor -r asciidoctor-pdf -b pdf src/index-pdf.adoc -o $@
 

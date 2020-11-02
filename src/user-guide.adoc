@@ -17,8 +17,10 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 * Collapsing and Expanding Branches
 * Multiple pen / branch colors.
 * link:#BackupAndSync[Backup and sync] with DropBox
-* link:#PDFExport[PDF Export] ( _Premium Subscription_ )
-* link:#PenAndBranchColorSettings[Pen Thickness, Pen Color and Branch Color Settings] ( _Premium Subscription_ )
+* link:#PDFExport[PDF Export] ( *Premium* )
+* Settings
+** link:#SettingsForFree[Pen Thickness]
+** link:#SettingsForPremium[Pen Thickness, Pen Color, Branch Color and Background Color Settings] ( *Premium* )
 
 
 === Requirements
@@ -54,7 +56,7 @@ https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard
 There are two screens.
 
 * (1) Editor
-** link:#PenAndBranchColorSettings[Settings]
+** link:#SettingsForFree[Settings] (Free) / link:#SettingsForPremium[Settings] (Premium)
 * (2) File Manager
 ** link:#BackupAndSync[Backup and Sync]
 
@@ -74,6 +76,18 @@ One is *(A) Map Edit Mode*, another is *(B) Node Edit Mode*.
 [NOTE]
 More editor operation details, please see the https://mindboard.github.io/mindboard-pro-user-guide/#_1_editor[MindBoard User Guide].
 
+
+[[SettingsForFree]]
+==== Settings
+
+In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Settings] *Settings* Menu Item.
+
+* *Pen Thickness* : You can change each pen thickness.
+* *Save as Default* : 
+** If check this item *on*, this settings *also apply new document*. 
+** If check this item *off*, this settings *only apply current document*.
+
+image::screenshots/pen-thickness-settings-portrait.png[alt=Pen Thickness Settings, width=600]
 
 
 === (2) File Manager
@@ -120,8 +134,8 @@ If you like this app, please consider to get Premium Subscription and support th
 
 For now, there are 2 features with Premium Subscription.
 
-* PDF export
-* Settings : Pen Thickness, Pen Color and Branch Color Settings
+* link:#PDFExport[PDF export]
+* link:#SettingsForPremium[Settings] : Pen Thickness, Pen Color, Branch Color and Background Color Settings
 
 
 [[PDFExport]]
@@ -130,16 +144,21 @@ For now, there are 2 features with Premium Subscription.
 In order to export PDF, tap the image:icons/share.svg[Share] *Share Icon* in the Editor Screen.
 
 
-[[PenAndBranchColorSettings]]
-==== Pen Thickness, Pen Color and Branch Color Settings
+[[SettingsForPremium]]
+==== Settings (Premium)
 
-In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Color Settings] *Color Settings* Menu Item.
+In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Settings] *Settings* Menu Item.
+
+* *Pen Thickness* : You can change each pen thickness.
+* *Pen Color* : You can change each pen color to choice a color in right palette.
+* *Branch Color* : You can change each branch color to choice a color in right palette.
+* *Background Color* : You can change editor background color to choice a color in right palette.
+* *Save as Default* : 
+** If check this item *on*, this settings *also apply new document*. 
+** If check this item *off*, this settings *only apply current document*.
 
 image::screenshots/pen-and-branch-color-settings-portrait.png[alt=Pen Thickness, Pen Color and Branch Color Settings, width=600]
 
-[NOTE]
-If check __Save as Default__ item on, this settings also apply new document. 
-If the item off, this settings only apply current document.
 
 
 === Get the Premium Subscription
