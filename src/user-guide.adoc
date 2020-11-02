@@ -133,9 +133,13 @@ In order to export PDF, tap the image:icons/share.svg[Share] *Share Icon* in the
 [[PenAndBranchColorSettings]]
 ==== Pen Thickness, Pen Color and Branch Color Settings
 
+In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Color Settings] *Color Settings* Menu Item.
+
 image::screenshots/pen-and-branch-color-settings-portrait.png[alt=Pen Thickness, Pen Color and Branch Color Settings, width=600]
 
-In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Color Settings] *Color Settings* Menu Item.
+[NOTE]
+If check __Save as Default__ item on, this settings also apply new document. 
+If the item off, this settings only apply current document.
 
 
 === Get the Premium Subscription
