@@ -18,7 +18,7 @@ MindBoard 2019 is a handwriting mind mapping application for Android tablets.
 * Multiple pen / branch colors.
 * link:#BackupAndSync[Backup and sync] with DropBox
 * link:#PDFExport[PDF Export] ( _Premium Subscription_ )
-* link:#PenAndBranchColorSettings[Pen and Branch Color Settings] ( _Premium Subscription_ )
+* link:#PenAndBranchColorSettings[Pen Thickness, Pen Color and Branch Color Settings] ( _Premium Subscription_ )
 
 
 === Requirements
@@ -51,15 +51,33 @@ https://www.facebook.com/mindboardapps[Facebook] / https://twitter.com/mindboard
 
 === Overview
 
-There are three main features.
+There are two screens.
 
 * (1) Editor
+** link:#PenAndBranchColorSettings[Settings]
 * (2) File Manager
-** Backup and Sync
+** link:#BackupAndSync[Backup and Sync]
+
+
 
 === (1) Editor
 
+This is for mind-mapping.
+
+There are two modes in Editor. +
+One is *(A) Map Edit Mode*, another is *(B) Node Edit Mode*.
+
+* Map Edit Mode :  Edit node strucutres.
+* Node Edit Mode : Edit node contents.
+
+
+
+
 === (2) File Manager
+
+This is for map thumbnail list.
+
+
 
 
 [[BackupAndSync]]
@@ -100,7 +118,7 @@ If you like this app, please consider to get Premium Subscription and support th
 For now, there are 2 features with Premium Subscription.
 
 * PDF export
-* Pen and Branch Color Settings
+* Settings : Pen Thickness, Pen Color and Branch Color Settings
 
 
 [[PDFExport]]
@@ -110,11 +128,11 @@ In order to export PDF, tap the image:icons/share.svg[Share] *Share Icon* in the
 
 
 [[PenAndBranchColorSettings]]
-==== Pen and Branch Color Settings
+==== Pen Thickness, Pen Color and Branch Color Settings
 
-image::screenshots/pen-and-branch-color-settings-landscape.png[alt=Pen and Branch Color Settings, width=600]
+image::screenshots/pen-and-branch-color-settings-portrait.png[alt=Pen Thickness, Pen Color and Branch Color Settings, width=600]
 
-To use this feature, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Color Settings] *Color Settings* Menu Item.
+In order to use this, tap the image:icons/menu.svg[Menu] *Menu Icon* and the image:icons/settings.svg[Color Settings] *Color Settings* Menu Item.
 
 
 === Get the Premium Subscription
