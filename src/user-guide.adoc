@@ -112,6 +112,25 @@ You can backup and sync your files with DropBox.
 
 == Additional Information
 
+=== About File Format between __this app__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon] and __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon]
+
+The file format of this app __MindBoard 2019__ and __MindBoard (Pro)__ is called MBX.
+The MBX's default suffix is __.mbx__, and MIME Type is __application/vnd.mindboardapps.mindboard-package__.
+
+This app and __MindBoard (Pro)__ use same MBX file format.
+So you can transfer your data between __this app__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon] and __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon] each other.
+
+Data transfer instruction:
+
+1. Export a document into Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
+2. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
+
+[NOTE]
+If not using Google Drive to transfer data, it could not keep MBX file MIME Type.
+To transfer data, you always have to use Google Drive.
+
+
+////
 === Data Migration from __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon]
 
 This app __MindBoard 2019__ and __MindBoard (Pro)__ share the common file format.
@@ -121,6 +140,7 @@ In order to import data:
 
 1. Export a document to Google Drive in File Manager of __MindBoard (Pro)__ image:icons/mbp-app-icon.png[MindBoard (Pro) App Icon].
 2. Import a document from Google Drive in File Manager of __MindBoard 2019__ image:icons/mb2019-app-icon.png[MindBoard 2019 App Icon].
+////
 
 
 == Premium Subscription 
